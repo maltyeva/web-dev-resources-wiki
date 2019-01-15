@@ -8,10 +8,10 @@ Table of Contents
       * [Stock Photos](#stock-photos)
       * [Image Optimization](#image-optimization)
       * [Color Palettes](#color-palettes)
-   * [FrontEnd](#frontend)
+   * [Front-End](#frontend)
       * [CSS](#css)
       * [HTML](#html)
-   * [Backend](#backend)
+   * [Back-End](#backend)
       * [Git & GitHub](#git--github)
       * [API](#api)
    * [Frameworks](#frameworks)
@@ -22,14 +22,6 @@ Table of Contents
 
 # Design
 
-
-## Fonts
-
-* Ultimate Google Fonts Pairing [LINK](https://www.reliablepsd.com/ultimate-google-font-pairings/)
-* Google Font Combinations [LINK](https://fonts.greatsimple.io/all-products/)
-
-
-
 ## Design Fundamentals
 
 * Web Design in 4 Minutes [LINK](https://jgthms.com/web-design-in-4-minutes/)
@@ -37,6 +29,11 @@ Table of Contents
 * Learn Design Code [LINK](https://designcode.io/learn)
 * Refactor your UI [LINK](https://twitter.com/i/moments/994601867987619840)
 * UX In Contact Forms: Essentials To Turn Leads Into Conversions [LINK](https://www.smashingmagazine.com/2018/03/ux-contact-forms-essentials-conversions/)
+
+## Fonts
+
+* Ultimate Google Fonts Pairing [LINK](https://www.reliablepsd.com/ultimate-google-font-pairings/)
+* Google Font Combinations [LINK](https://fonts.greatsimple.io/all-products/)
 
   
 ## Cool Visuals
