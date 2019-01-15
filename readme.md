@@ -3,6 +3,7 @@ Table of Contents
 
    * [FrontEnd](#frontend)
       * [CSS](#css)
+      * [HTML](#html)
    * [Design](#design)
       * [Fonts](#fonts)
       * [Design Fundamentals](#design-fundamentals)
@@ -11,7 +12,7 @@ Table of Contents
       * [Image Optimization](#image-optimization)
       * [Color Palettes](#color-palettes)
    * [Backend](#backend)
-      * [Git   GitHub](#git--github)
+      * [Git & GitHub](#git--github)
       * [API](#api)
    * [Frameworks](#frameworks)
       * [Ruby on Rails](#ruby-on-rails)
@@ -27,7 +28,7 @@ Table of Contents
 * Stop your footer from floating. [LINK](https://css-tricks.com/snippets/css/sticky-footer/)
 * A guide to Flexbox fundamentals. [LINK](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-
+## HTML
 
 # Design
 
@@ -83,7 +84,7 @@ Table of Contents
 
 # Backend
 
-## Git + GitHub
+## Git & GitHub
 
 * Git Cheatsheet - Oh Shit Git! [LINK](http://ohshitgit.com/)
 
@@ -97,17 +98,18 @@ Table of Contents
 
 ## Ruby on Rails 
 
-* How to use Action Cable w/Rails 5 [LINK](https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/)
 * Summary of RoR Fundamental Concepts [LINK](https://stackoverflow.com/questions/5205002/summary-of-ruby-on-rails-fundamental-concepts)
+* How to use Action Cable w/Rails 5 [LINK](https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/)
 * Modern Front-End in Rails [LINK](https://evilmartians.com/chronicles/evil-front-part-1)
 * Create More Secure Passwords in RoR [LINK](https://dev.to/twilio/better-passwords-in-ruby-applications-with-the-pwned-passwords-api-4o9f)
 * HTTP Requests in Rails Applications [LINK](https://robots.thoughtbot.com/back-to-basics-http-requests)
 * Understanding the Params Hash [LINK](http://jocellyn.cz/2014/04/21/rails-params-it-is-just-a-hash.html)
 * Top 10 Ruby on Rails Errors [LINK](https://rollbar.com/blog/top-10-ruby-on-rails-errors/)
 
-  
+## WordPress
 
-  
+* WordPress in China [LINK](https://medium.com/@mariacodes/7-essential-free-plugins-for-developing-with-wordpress-in-china-e3418f445da6)  
+
 
 
 # Entrepreneurship
