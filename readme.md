@@ -1,9 +1,6 @@
 Table of Contents
 =================
 
-   * [FrontEnd](#frontend)
-      * [CSS](#css)
-      * [HTML](#html)
    * [Design](#design)
       * [Fonts](#fonts)
       * [Design Fundamentals](#design-fundamentals)
@@ -11,6 +8,9 @@ Table of Contents
       * [Stock Photos](#stock-photos)
       * [Image Optimization](#image-optimization)
       * [Color Palettes](#color-palettes)
+   * [FrontEnd](#frontend)
+      * [CSS](#css)
+      * [HTML](#html)
    * [Backend](#backend)
       * [Git & GitHub](#git--github)
       * [API](#api)
@@ -20,18 +20,7 @@ Table of Contents
 
 
 
-# FrontEnd
-
-##   CSS
-
-* Fun snippets to up your CSS game.  [LINK](https://30-seconds.github.io/30-seconds-of-css/)
-* Stop your footer from floating. [LINK](https://css-tricks.com/snippets/css/sticky-footer/)
-* A guide to Flexbox fundamentals. [LINK](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-## HTML
-
 # Design
-
 
 
 ## Fonts
@@ -50,15 +39,10 @@ Table of Contents
 * UX In Contact Forms: Essentials To Turn Leads Into Conversions [LINK](https://www.smashingmagazine.com/2018/03/ux-contact-forms-essentials-conversions/)
 
   
-
-
-
-
 ## Cool Visuals
 
 * Textures [LINK](https://www.pexels.com/search/texture/)
 * Lines [LINK](https://www.pexels.com/search/lines)
-
 
 
 ## Stock Photos
@@ -80,6 +64,15 @@ Table of Contents
 
 * ColorMind [LINK](http://colormind.io/bootstrap/) (pro-tip. Pick the middle color based on your theme. Lock it and use the generator to create two complementary color, a white, and a black for your site)
 
+# FrontEnd
+
+##   CSS
+
+* Fun snippets to up your CSS game.  [LINK](https://30-seconds.github.io/30-seconds-of-css/)
+* Stop your footer from floating. [LINK](https://css-tricks.com/snippets/css/sticky-footer/)
+* A guide to Flexbox fundamentals. [LINK](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## html
 
 
 # Backend
