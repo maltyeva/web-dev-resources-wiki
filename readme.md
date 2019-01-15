@@ -1,10 +1,12 @@
-# Web Design 
+[TOC]
 
 
 
-## CSS
-
-[Create]: https://css-tricks.com/snippets/css/sticky-footer/	"Create a Sticky Footer"
+# HTML/CSS
 
 
+
+##   CSS
+
+* Fun snippets to up your CSS game. (https://30-seconds.github.io/30-seconds-of-css/ "LINK")
 
