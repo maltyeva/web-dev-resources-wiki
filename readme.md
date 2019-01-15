@@ -2,7 +2,9 @@ Table of Contents
 =================
 
    * [FrontEnd](#frontend)
+
       * [CSS](#css)
+
    * [Design](#design)
       * [Fonts](#fonts)
       * [Design Fundamentals](#design-fundamentals)
@@ -10,17 +12,18 @@ Table of Contents
       * [Stock Photos](#stock-photos)
       * [Image Optimization](#image-optimization)
       * [Color Palettes](#color-palettes)
+
    * [Backend](#backend)
       * [Git   GitHub](#git--github)
       * [API](#api)
-   * [Frameworks](#frameworks)
-      * [Ruby on Rails](#ruby-on-rails)
-   * [Entrepreneurship](#entrepreneurship)
-            * [Do Things that Don't Scale: <a href="http://paulgraham.com/ds.html" rel="nofollow">LINK</a>](#do-things-that-dont-scale-link)
-            * [The Key To Accelerating Your Coding Skills <a href="http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/" rel="nofollow">LINK</a>](#the-key-to-accelerating-your-coding-skills-link)
-            * [Programming Sucks (but why i still love it) <a href="https://www.stilldrinking.org/programming-sucks" rel="nofollow">LINK</a>](#programming-sucks-but-why-i-still-love-it-link)
-            * [Pitch Decks of Startups <a href="https://www.cirrusinsight.com/blog/startup-pitch-decks" rel="nofollow">LINK</a>](#pitch-decks-of-startups-link)
 
+   * [Frameworks](#frameworks)
+
+      * [Ruby on Rails](#ruby-on-rails)
+
+   * [Entrepreneurship](#entrepreneurship)
+
+      
 
 
 # FrontEnd
@@ -98,16 +101,15 @@ Table of Contents
 * Modern Front-End in Rails [LINK](https://evilmartians.com/chronicles/evil-front-part-1)
 * Create More Secure Passwords in RoR [LINK](https://dev.to/twilio/better-passwords-in-ruby-applications-with-the-pwned-passwords-api-4o9f)
 
+  
+
 
 # Entrepreneurship
 
-#### Do Things that Don't Scale: [LINK](http://paulgraham.com/ds.html)
-
-#### The Key To Accelerating Your Coding Skills [LINK](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
-
-#### Programming Sucks (but why i still love it) [LINK](https://www.stilldrinking.org/programming-sucks)
-
-#### Pitch Decks of Startups [LINK](https://www.cirrusinsight.com/blog/startup-pitch-decks)
+* Do Things that Don't Scale: [LINK](http://paulgraham.com/ds.html)
+* The Key To Accelerating Your Coding Skills [LINK](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+* Programming Sucks (but why i still love it) [LINK](https://www.stilldrinking.org/programming-sucks)
+* Pitch Decks of Unicorn Startups [LINK](https://www.cirrusinsight.com/blog/startup-pitch-decks)
 
 
 
