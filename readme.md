@@ -1,7 +1,6 @@
 Table of Contents
 =================
 
-   * [Table of Contents](#table-of-contents)
    * [FrontEnd](#frontend)
       * [CSS](#css)
    * [Design](#design)
@@ -44,13 +43,9 @@ Table of Contents
 ## Design Fundamentals
 
 * Web Design in 4 Minutes [LINK](https://jgthms.com/web-design-in-4-minutes/)
-
 * 7 Steps to Become a UI/UX Designer [LINK](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
-
 * Learn Design Code [LINK](https://designcode.io/learn)
-
 * Refactor your UI [LINK](https://twitter.com/i/moments/994601867987619840)
-
 * UX In Contact Forms: Essentials To Turn Leads Into Conversions [LINK](https://www.smashingmagazine.com/2018/03/ux-contact-forms-essentials-conversions/)
 
   
@@ -103,17 +98,11 @@ Table of Contents
 ## Ruby on Rails 
 
 * How to use Action Cable w/Rails 5 [LINK](https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/)
-
 * Summary of RoR Fundamental Concepts [LINK](https://stackoverflow.com/questions/5205002/summary-of-ruby-on-rails-fundamental-concepts)
-
 * Modern Front-End in Rails [LINK](https://evilmartians.com/chronicles/evil-front-part-1)
-
 * Create More Secure Passwords in RoR [LINK](https://dev.to/twilio/better-passwords-in-ruby-applications-with-the-pwned-passwords-api-4o9f)
-
 * HTTP Requests in Rails Applications [LINK](https://robots.thoughtbot.com/back-to-basics-http-requests)
-
 * Understanding the Params Hash [LINK](http://jocellyn.cz/2014/04/21/rails-params-it-is-just-a-hash.html)
-
 * Top 10 Ruby on Rails Errors [LINK](https://rollbar.com/blog/top-10-ruby-on-rails-errors/)
 
   
