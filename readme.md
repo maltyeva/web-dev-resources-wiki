@@ -16,6 +16,7 @@ Table of Contents
       * [API](#api)
    * [Frameworks](#frameworks)
       * [Ruby on Rails](#ruby-on-rails)
+      * [WordPress](#wordpress)
    * [Entrepreneurship](#entrepreneurship)
 
 
@@ -99,7 +100,7 @@ Table of Contents
 ## WordPress
 
 * WordPress in China [LINK](https://medium.com/@mariacodes/7-essential-free-plugins-for-developing-with-wordpress-in-china-e3418f445da6)  
-
+* How to use Wordpress as an API [LINK](https://blog.daftcode.pl/wordpress-as-a-headless-cms-b4144c626695)
 
 
 # Entrepreneurship
