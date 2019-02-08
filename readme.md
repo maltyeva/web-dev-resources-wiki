@@ -18,6 +18,7 @@ Table of Contents
       * [Ruby on Rails](#ruby-on-rails)
       * [WordPress](#wordpress)
    * [Entrepreneurship](#entrepreneurship)
+   * [Miscellaneous](#miscellanous)
 
 
 
@@ -96,6 +97,7 @@ Table of Contents
 * HTTP Requests in Rails Applications [LINK](https://robots.thoughtbot.com/back-to-basics-http-requests)
 * Understanding the Params Hash [LINK](http://jocellyn.cz/2014/04/21/rails-params-it-is-just-a-hash.html)
 * Top 10 Ruby on Rails Errors [LINK](https://rollbar.com/blog/top-10-ruby-on-rails-errors/)
+* How to Create a Simple Search with the Simple_form Gem [LINK](https://medium.com/@mariacodes/build-a-simple-search-with-the-simple-form-gem-in-rails-5-b247168282d1)
 
 ## WordPress
 
@@ -110,5 +112,8 @@ Table of Contents
 * Programming Sucks (but why i still love it) [LINK](https://www.stilldrinking.org/programming-sucks)
 * Pitch Decks of Unicorn Startups [LINK](https://www.cirrusinsight.com/blog/startup-pitch-decks)
 
+
+# Miscellaneous 
+* AI That Predicts What You're going to Draw [LINK](http://seoi.net/penint/)
 
 
