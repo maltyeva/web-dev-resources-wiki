@@ -98,6 +98,8 @@ Table of Contents
 * Understanding the Params Hash [LINK](http://jocellyn.cz/2014/04/21/rails-params-it-is-just-a-hash.html)
 * Top 10 Ruby on Rails Errors [LINK](https://rollbar.com/blog/top-10-ruby-on-rails-errors/)
 * How to Create a Simple Search with the Simple_form Gem [LINK](https://medium.com/@mariacodes/build-a-simple-search-with-the-simple-form-gem-in-rails-5-b247168282d1)
+* Testing for Beginners [LINK](https://code.tutsplus.com/series/rspec-testing-for-beginners--cms-1044)
+
 
 ## WordPress
 
