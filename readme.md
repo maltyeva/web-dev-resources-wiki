@@ -29,7 +29,7 @@ Table of Contents
 * Web Design in 4 Minutes [LINK](https://jgthms.com/web-design-in-4-minutes/)
 * 7 Steps to Become a UI/UX Designer [LINK](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
 * Learn Design Code [LINK](https://designcode.io/learn)
-* Refactor your UI [LINK](https://twitter.com/i/moments/994601867987619840)
+* How to Refactor your UI [LINK](https://twitter.com/i/moments/994601867987619840)
 * UX In Contact Forms: Essentials To Turn Leads Into Conversions [LINK](https://www.smashingmagazine.com/2018/03/ux-contact-forms-essentials-conversions/)
 
 ## Fonts
@@ -89,7 +89,7 @@ Table of Contents
 
 
 ## Ruby on Rails 
-
+* Rails Cheatsheet - Oh Shit Rails! [LINK](https://ohshitrails.com/)
 * Summary of RoR Fundamental Concepts [LINK](https://stackoverflow.com/questions/5205002/summary-of-ruby-on-rails-fundamental-concepts)
 * How to use Action Cable w/Rails 5 [LINK](https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/)
 * Modern Front-End in Rails [LINK](https://evilmartians.com/chronicles/evil-front-part-1)
